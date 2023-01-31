@@ -1,0 +1,33 @@
+
+
+.image{
+      
+    
+    width: 1000px;
+    height: 1000px;
+    height: auto;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+body{
+    background-image: url("http://4.bp.blogspot.com/-d3wBHkxngqY/Tj9211YMQFI/AAAAAAAABE8/BFM_dHbFsJw/s1600/Paradise+on+Earth+Jammu+and+Kashmir+Tourism+1.jpg");
+    background-position: center center;
+  
+    /* Make image fixed */
+    background-attachment: fixed;
+
+    /* Not repeat images */
+    background-repeat: no-repeat;
+
+    /* Set background size auto */
+    background-size: auto;
+    
+    background-size: 100% 100%;
+}
+

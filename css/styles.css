@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-position: center center;
+  
+    /* Make image fixed */
+    background-attachment: fixed;
+
+    /* Not repeat images */
+    background-repeat: no-repeat;
+
+    /* Set background size auto */
+    background-size: auto;
+    background-color: blue;
+    background-size: 100% 100%;
+}
+h2{
+    color:blue;
+
+}
+h3{
+    color:blue;
+
+}
+h4{
+    color:blue;
+}
+hr{
+    background-color:#A5F1E9;
+    border-style:none;
+    border-top-style:dotted;
+    border-color:grey;
+    border-width:5px;
+    height: 1px;
+    width:5%;
+}
